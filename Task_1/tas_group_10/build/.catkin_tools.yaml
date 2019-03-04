@@ -1,0 +1,6 @@
+devel_space: /home/tas_group_10/workspace/catkin_ws/src/tas_group_10/devel
+install: false
+install_space: /home/tas_group_10/workspace/catkin_ws/src/tas_group_10/install
+profile: default
+source_space: /home/tas_group_10/workspace/catkin_ws/src/tas_group_10/src
+workspace: /home/tas_group_10/workspace/catkin_ws/src/tas_group_10

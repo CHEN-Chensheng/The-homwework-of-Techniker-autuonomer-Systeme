@@ -1,0 +1,10 @@
+git add --all
+
+git -c user.name='username' -c user.email='email' commit -m 'message'
+
+git push
+
+
+
+# git -c user.name='zengjie.zhang' -c user.email='zengjie.zhang@lsr.ei.tum.de' commit -m 'Update'
+

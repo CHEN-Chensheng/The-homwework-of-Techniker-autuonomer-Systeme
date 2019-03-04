@@ -1,0 +1,6 @@
+devel_space: /home/tas_group_10/workspace/catkin_ws/src/autonomous_parking/devel
+install: false
+install_space: /home/tas_group_10/workspace/catkin_ws/src/autonomous_parking/install
+profile: default
+source_space: /home/tas_group_10/workspace/catkin_ws/src/autonomous_parking/src
+workspace: /home/tas_group_10/workspace/catkin_ws/src/autonomous_parking
